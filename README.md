@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about Programming Languages, Web Development and .
+- 🌱 &nbsp; Learning more about Programming Languages, Web Development.
 - 🥋 &nbsp; My hobbies are playing sport, watching series, MMA and Boxing.
 - 🎧 &nbsp; “Without music, life would be a mistake” ― Friedrich Nietzsche
 
@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![LaTex](https://img.shields.io/badge/-Tex-333333?style=flat&logo=LaTex)
+  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
