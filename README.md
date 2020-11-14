@@ -47,4 +47,5 @@
 <a href="https://www.instagram.com/aetooc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aetooc_-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/aet00c/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aetooc_-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:p200107@pwr.nu.edu.pk"><img alt="Email" src="https://img.shields.io/badge/Muhammad%20Awais-blue?style=flat-square&logo=gmail"></a>
+  <p align="center"> <a href="https://twitter.com/aet00c" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aet00c" /></a> </p>
 </p>
