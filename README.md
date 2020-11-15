@@ -43,7 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aetooc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aetooc-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muhammadawaisaijaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aetooc-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/aetooc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aetooc_-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/aet00c/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aetooc_-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.hackerrank.com/aetooc"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-aetooc_-blue?style=flat-square&logo=hackerrank"></a>
