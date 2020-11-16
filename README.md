@@ -2,7 +2,7 @@
 
 <h2> 💁‍♂️ I'm Muhammad Awais </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="40"></h3>
+<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
