@@ -2,7 +2,7 @@
 
 <h2> 💁‍♂️ I'm Muhammad Awais </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="40"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
@@ -10,7 +10,7 @@
 - 🥋 &nbsp; My hobbies are playing sport, watching series, MMA and Boxing.
 - 🎧 &nbsp; “Without music, life would be a mistake” ― Friedrich Nietzsche
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
