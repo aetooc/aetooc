@@ -53,5 +53,5 @@
 <p>
 
 
-![](https://hit.yhype.halp.im/github/profile?user=aetooc)
+![Profile views](https://gpvc.arturio.dev/aetooc?v=3)
 </p>
