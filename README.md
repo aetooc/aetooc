@@ -50,8 +50,3 @@
 <a href="mailto:p200107@pwr.nu.edu.pk"><img alt="Email" src="https://img.shields.io/badge/Muhammad%20Awais-blue?style=flat-square&logo=gmail"></a>
   <p align="center"> <a href="https://twitter.com/aet00c" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aet00c" /></a> </p>
 </p>
-<p>
-
-
-![Profile views](https://gpvc.arturio.dev/aetooc?v=3)
-</p>
