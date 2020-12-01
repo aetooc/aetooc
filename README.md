@@ -42,11 +42,24 @@
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammadawaisaijaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aetooc-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/aetooc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aetooc_-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.twitter.com/aet00c/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aetooc_-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.hackerrank.com/aetooc"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-aetooc_-blue?style=flat-square&logo=hackerrank"></a>
-<a href="mailto:p200107@pwr.nu.edu.pk"><img alt="Email" src="https://img.shields.io/badge/Muhammad%20Awais-blue?style=flat-square&logo=gmail"></a>
+<p align='center'>
+  
+  <a href="https://wa.link/7936yy">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammadawaisaijaz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/aetooc">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/aet00c">
+    <https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />        
+  </a>&nbsp;&nbsp;
+  <a href="mailto:muhammadawais26103@gmail.com">
+    <https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />        
+  </a>&nbsp;&nbsp;
+  
+</p>
   <p align="center"> <a href="https://twitter.com/aet00c" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aet00c" /></a> </p>
 </p>
