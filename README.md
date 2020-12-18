@@ -59,9 +59,6 @@
   <a href="mailto:muhammadawais26103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="mailto:aetooc@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 </p>
   <p align="center"> <a href="https://twitter.com/aet00c" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aet00c" /></a><p align="center"></p>
 </p>
