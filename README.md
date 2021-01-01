@@ -60,5 +60,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="https://twitter.com/aetooc_awais" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aet00c" /></a><p align="center"></p>
+  <p align="center"> <a href="https://twitter.com/aetooc_awais" target="blank"><img src="https://img.shields.io/twitter/follow/aet00c?logo=twitter&style=for-the-badge" alt="aetooc_awais" /></a><p align="center"></p>
 </p>
