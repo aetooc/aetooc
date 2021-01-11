@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about Programming Languages, Web Development.
+- 🌱 &nbsp; Learning more about Programming Languages, Web Development and App Development.
 - 🥋 &nbsp; My hobbies are playing sport, watching series, MMA and Boxing.
 - 🎧 &nbsp; “Without music, life would be a mistake” ― Friedrich Nietzsche
 
