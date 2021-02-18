@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aetooc&color=dc143c)
 
-<h2> 👋 Hey there!</h2>
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!</h2>
 
 <h2> 💁‍♂️ I'm Muhammad Awais </h2>
 
