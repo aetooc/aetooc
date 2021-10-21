@@ -28,7 +28,7 @@ You can connect with me on,
 </p>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/U4FhLNfZiY0ZY6bnEs/giphy.gif" width="50"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
