@@ -15,7 +15,7 @@ You can connect with me on,
   <a href="https://www.linkedin.com/in/muhammadawaisaijaz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/aetooc">
+  <a href="https://instagram.com/m.awais.20">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/aetooc_awais">
